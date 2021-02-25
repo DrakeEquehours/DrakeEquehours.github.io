@@ -1,4 +1,4 @@
-//alert("Website ini tidak didesain untuk digunakan pada versi mobile, berberapa error akan ditemukan dan belum diperbaiki")
+alert("Website ini tidak didesain untuk digunakan pada versi mobile, berberapa error akan ditemukan dan belum diperbaiki")
 class TypeWriter {
     constructor(txtElement, words, wait = 3000) {
       this.txtElement = txtElement;
